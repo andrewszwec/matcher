@@ -67,7 +67,7 @@ function App() {
         value={name}
         onChange={filter}
         className="input"
-        placeholder="Filter"
+        placeholder="Your name"
       />
 
       <div className="user-list">
