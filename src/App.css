@@ -20,7 +20,7 @@
   list-style: none;
   margin: 10px 0;
   padding: 10px;
-  background: #233142;
+  background: #152E2B;
   display: flex;
   justify-content: space-between;
   border-radius: 10px;
@@ -37,7 +37,7 @@
 }
 
 .user-age {
-  color: #79C8C4;
+  color: #FCC4CD;
   margin-left: auto;
   font-weight: bold;
 }
