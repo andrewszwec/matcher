@@ -6,9 +6,10 @@
 
 .input {
   padding: 5px 15px;
-  width: 400px;
+  width: 400;
   border-radius: 10px;
   border-width: 2px;
+  font-size: 30px;
 }
 
 .user-list {
@@ -22,7 +23,7 @@
   background: #233142;
   display: flex;
   justify-content: space-between;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .user-id {
